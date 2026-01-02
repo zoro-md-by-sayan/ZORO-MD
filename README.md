@@ -1,4 +1,4 @@
-<!--SUBZERO V6 FINAL || DO NOT COPY MY README WITHOUT CREDITS-->
+
 
 
 
@@ -7,16 +7,16 @@
 <img align="center" height="auto"
 src="https://mrfrankk-cdn.hf.space/media/bot_image.jpg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=506EF8&lines=WELCOME+TO+ZORO+MD+MADE+BY;MR+SAYAN+OFC;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=506EF8&lines=WELCOME+TO+ZORO+MD+MADE+BY+SAYAN;MR+SAYAN+OFC;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
 <br>
 
    </p>
 <p align="center">
-<a href="https://github.com/mrfr8nk"><img title="Author" src="https://img.shields.io/badge/ZORO-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@mrfr4nk"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://whatsapp.com/channel/0029Vb7D70MI7BeC0xUnKb05"><img title="Channel" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/mrfr8nk"><img title="Author" src="https://img.shields.io/badge/ZORO-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@its_sayan-j3p"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://whatsapp.com/channel/0029VbBYK1T0gcfRPEoYUT1p"><img title="Channel" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
-<a href="https://github.com/zoro-md-by-sayan/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfr8nk?color=purple&style=flat-square"></a>
+<a href="https://github.com/zoro-md-by-sayan/followers"><img title="Followers" src="https://img.shields.io/github/followers/zoro-md-by-sayan?color=purple&style=flat-square"></a>
 <a href="https://github.com/zoro-md-by-sayan/ZORO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zoro-md-by-sayan/ZORO-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/zoro-md-by-sayan/ZORO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zoro-md-by-sayan/ZORO-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/zoro-md-by-sayan/ZORO-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zoro-md-by-sayan/ZORO-MD?label=Watchers&color=blue&style=flat-square"></a>
@@ -41,7 +41,7 @@ src="https://mrfrankk-cdn.hf.space/media/bot_image.jpg">
 <p align="center">
     <strong>𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡_𝗜𝗗 </strong>
   <br>
-    <a href="https://pair.subzero.gleeze.com" target="_blank">
+    <a href="https://chat.whatsapp.com/BirhXls7P1TBfChPYhhJWt" target="_blank">
         <img alt="Session ID" src="https://img.shields.io/badge/SESSION%20ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkpurple"/>
     </a>
 </p>
@@ -52,11 +52,11 @@ src="https://mrfrankk-cdn.hf.space/media/bot_image.jpg">
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/mrfrankofcc/SUBZERO-MD/tree/main" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/zoro-md-by-sayan/ZORO-MD/tree/main" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
       <td><a href="https://talkdrove.com/share-bot/11" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=mrfrankofcc/ZORO-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=zoro-md-by-sayan/ZORO-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
@@ -77,7 +77,7 @@ src="https://mrfrankk-cdn.hf.space/media/bot_image.jpg">
 
 ## Credits
 
-- [Dev](https://github.com/mrfr8nk)
+- [Dev](https://github.com/zoro-md-by-sayan)
 - [Angular Sockets Baileys](https://www.npmjs.com/package/angularsockets)
 
 <h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
