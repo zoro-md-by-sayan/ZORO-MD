@@ -5,7 +5,7 @@
 <h1 align="center">ZORO MD </h1>
 
 <img align="center" height="auto"
-src="[https://mrfrankk-cdn.hf.space/media/repo.png](https://mrfrankk-cdn.hf.space/media/bot_image.jpg)">
+src="https://mrfrankk-cdn.hf.space/media/bot_image.jpg">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=506EF8&lines=WELCOME+TO+ZORO+MD+MADE+BY;MR+SAYAN+OFC;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)
 <br>
@@ -85,7 +85,7 @@ src="[https://mrfrankk-cdn.hf.space/media/repo.png](https://mrfrankk-cdn.hf.spac
 
 - This bot is made for educational purposes `only` hence `DO NOT MISUSE`.
 
-> `POWERED BY MR FRANK OFC 🇿🇼`
+> `POWERED BY ZORO`
 ##
 
 <a><img src='https://mrfrankk-cdn.hf.space/media/bot_image.jpg'/>
