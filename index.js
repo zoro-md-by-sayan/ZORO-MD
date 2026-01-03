@@ -254,7 +254,7 @@ async function startXeonBotInc() {
             try {
                 const botNumber = XeonBotInc.user.id.split(':')[0] + '@s.whatsapp.net';
                 await XeonBotInc.sendMessage(botNumber, {
-                    text: `🤖 Bot Connected Successfully!\n\n⏰ Time: ${new Date().toLocaleString()}\n✅ Status: Online and Ready!\n\n✅Make sure to join below channel`,
+                    text: `╭──【 𝐙𝐎𝐑𝐎-𝐌𝐃 】──╮\n│ ✅ Connected Successfully\n⏰ ${new Date().toLocaleString()}\n│ 🟢 Online & Ready\n╰──────────────────╯\n*💀 DEVELOPER - DH - Y*\n\n*Join our official channel below! 📌*`,
                     contextInfo: {
                         forwardingScore: 1,
                         isForwarded: true,
@@ -272,10 +272,10 @@ async function startXeonBotInc() {
             await delay(1999)
             console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${global.botname || 'ZORO MD'} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
-            console.log(chalk.magenta(`\n${global.themeemoji || '•'} YT CHANNEL: MR UNIQUE HACKER`))
-            console.log(chalk.magenta(`${global.themeemoji || '•'} GITHUB: mrunqiuehacker`))
+            console.log(chalk.magenta(`\n${global.themeemoji || '•'} INSTA : DARKXSAYAN`))
+            console.log(chalk.magenta(`${global.themeemoji || '•'} GITHUB: zoro-md-by-sayan`))
             console.log(chalk.magenta(`${global.themeemoji || '•'} WA NUMBER: ${owner}`))
-            console.log(chalk.magenta(`${global.themeemoji || '•'} CREDIT: MR UNIQUE HACKER`))
+            console.log(chalk.magenta(`${global.themeemoji || '•'} CREDIT: MR SAYAN HACKER`))
             console.log(chalk.green(`${global.themeemoji || '•'} 🤖 Bot Connected Successfully! ✅`))
             console.log(chalk.blue(`Bot Version: ${settings.version}`))
         }
@@ -310,7 +310,7 @@ async function startXeonBotInc() {
     // Anticall handler: block callers when enabled
     XeonBotInc.ev.on('call', async (calls) => {
         try {
-            const { readState: readAnticallState } = require('./commands/anticall');
+            const { readState: readAnticallState } = require('./SAYAN/anticall');
             const state = readAnticallState();
             if (!state.enabled) return;
             for (const call of calls) {
