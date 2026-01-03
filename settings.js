@@ -10,7 +10,7 @@ const settings = {
   storeWriteInterval: 10000,
   description: "This is a bot for managing group commands and automating tasks.",
   version: "1.0.0",
-  updateZipUrl: "https://github.com/zoro-md-by-sayan/ZORO-MD/blob/main/main.js",
+  updateZipUrl: "https://github.com/zoro-md-by-sayan/ZORO-MD/archive/refs/heads/main.zip",
 };
 
 module.exports = settings;
