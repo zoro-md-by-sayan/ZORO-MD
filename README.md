@@ -40,7 +40,7 @@ src="https://mrfrankk-cdn.hf.space/media/bot_image.jpg">
     </a>
 </p>
 <p align="center">
-    <strong> **WA GROUP** </strong>
+    <strong>WA GROUP</strong>
   <br>
     <a href="https://chat.whatsapp.com/HS9vnXMs3cPJiI9iOU6PQs" target="_blank">
         <img alt="WA GROUP" src="https://img.shields.io/badge/WHATSAPP%20GROUP-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkpurple"/>
