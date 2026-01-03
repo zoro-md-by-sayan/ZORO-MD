@@ -12,7 +12,8 @@ src="https://mrfrankk-cdn.hf.space/media/bot_image.jpg">
 
    </p>
 <p align="center">
-<a href="https://github.com/zoro-md-by-sayan"><img title="Author" src="https://img.shields.io/badge/ZORO-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@its_sayan-j3p"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://whatsapp.com/channel/0029VbBYK1T0gcfRPEoYUT1p"><img title="Channel" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/zoro-md-by-sayan"><img title="Author" src="https://img.shields.io/badge/ZORO-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@its_sayan-j3p"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://whatsapp.com/channel/0029VbBYK1T0gcfRPEoYUT1p"><img title="Channel" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a> <a href="https://t.me/saya567"><img title="Contact" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
 <p/> 
 
  <p align="center">
