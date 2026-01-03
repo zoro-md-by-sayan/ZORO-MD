@@ -40,10 +40,10 @@ src="https://mrfrankk-cdn.hf.space/media/bot_image.jpg">
     </a>
 </p>
 <p align="center">
-    <strong>𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡_𝗜𝗗 </strong>
+    <strong>*WA GROUP*</strong>
   <br>
-    <a href="https://chat.whatsapp.com/BirhXls7P1TBfChPYhhJWt" target="_blank">
-        <img alt="Session ID" src="https://img.shields.io/badge/SESSION%20ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkpurple"/>
+    <a href="https://chat.whatsapp.com/HS9vnXMs3cPJiI9iOU6PQs" target="_blank">
+        <img alt="WA GROUP" src="https://img.shields.io/badge/WHATSAPP%20ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkpurple"/>
     </a>
 </p>
 <h2 align="center">  𝗚𝗘𝗧 𝗦𝗧𝗔𝗥𝗧𝗘𝗗
