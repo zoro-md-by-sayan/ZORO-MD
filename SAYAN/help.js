@@ -166,43 +166,29 @@ O─━━━━━━━━━━━━➤
 > © ........ ᴍɪɴɪ ʙᴏᴛ`;
 
     try {
-        const imagePath = path.join(__dirname, '../assets/bot_image.jpg');
-        
-        if (fs.existsSync(imagePath)) {
-            const imageBuffer = fs.readFileSync(imagePath);
-            
-            await sock.sendMessage(chatId, {
-                image: imageBuffer,
-                caption: helpMessage,
-                contextInfo: {
-                    forwardingScore: 1,
-                    isForwarded: true,
-                    forwardedNewsletterMessageInfo: {
-                        newsletterJid: '999999999999999999@newsletter',
-                        newsletterName: 'zoro MD',
-                        serverMessageId: -1
-                    }
-                }
-            },{ quoted: message });
-        } else {
-            console.error('Bot image not found at:', imagePath);
-            await sock.sendMessage(chatId, { 
-                text: helpMessage,
-                contextInfo: {
-                    forwardingScore: 1,
-                    isForwarded: true,
-                    forwardedNewsletterMessageInfo: {
-                        newsletterJid: '999999999999999999@newsletter',
-                        newsletterName: 'zoro MD by sayan',
-                        serverMessageId: -1
-                    } 
-                }
-            });
-        }
-    } catch (error) {
-        console.error('Error in help command:', error);
-        await sock.sendMessage(chatId, { text: helpMessage });
-    }
+  const videoPath = path.join(__dirname, '../assets/menu.mp4');
+
+  if (fs.existsSync(videoPath)) {
+    const videoBuffer = fs.readFileSync(videoPath);
+
+    await sock.sendMessage(
+      chatId,
+      {
+        video: videoBuffer,
+        caption: helpMessage,
+        mimetype: 'video/mp4',
+        gifPlayback: false
+      },
+      { quoted: message }
+    );
+  } else {
+    console.error('Menu video not found at:', videoPath);
+    await sock.sendMessage(chatId, { text: helpMessage });
+  }
+} catch (error) {
+  console.error('Error in help command:', error);
+  await sock.sendMessage(chatId, { text: helpMessage });
+}
 }
 
 module.exports = helpCommand;
